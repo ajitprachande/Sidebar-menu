@@ -124,6 +124,7 @@
 
 #check:checked ~ .sidebar_menu{
     left: 0;
+    
 }
 #check:checked ~ .btn_one i {
     opacity: 0;
